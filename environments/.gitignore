@@ -16,3 +16,5 @@ override.tf.json
 *.exe
 *.zip
 *.tar.gz
+
+# Sensitive variable files
