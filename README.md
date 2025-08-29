@@ -12,7 +12,8 @@ Production-ready, autoscaling web stack with **separate `dev` and `prod` environ
 ---
 
 ## Architecture
-![alt text](image.png)
+<img width="356" height="356" alt="image" src="https://github.com/user-attachments/assets/5419f763-7dc6-4db4-b7dc-01a469bd7484" />
+
 
 ```
 
